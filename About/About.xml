@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RttR Scale Fix</name>
+  <author>OrangePeelAssassin</author>
+  <packageId>OPA.RttRScaleFix</packageId>
+  <url>
+  </url>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <description>Body size times bace wool amount. AKA bigger dragons = more scales.</description>
+  <modDependencies>
+    <li>
+      <packageId>sargoskar.racetotherim</packageId>
+      <displayName>Race to the Rim</displayName>
+    </li>
+   </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>sargoskar.racetotherim</li>
+  </loadAfter>
+</ModMetaData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAttributeSet">
+		<xpath>Defs/ThingDef[starts-with(defName,"RttR_")]/comps/li[@Class="CompProperties_Shearable"]</xpath>
+		<attribute>Class</attribute>
+		<value>RelativeResources.CompProperties_RelativeShearable</value>
+	</Operation>
+</Patch>
+
+
+
+
+
